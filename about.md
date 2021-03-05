@@ -34,7 +34,7 @@ title: About
               <td style="padding:0 1em 0 0">&bull; 09/17-08/21</td>
               <td>SNSF Professorship, Swiss National Science Foundation, CHF 1'144'648.</td>
             </tr>
-          <\tbody>
+          </tbody>
 </table>
 
 <h3>Postdocs</h3>
@@ -49,7 +49,7 @@ title: About
               <td style="padding:0 1em 0 0">&bull; 09/18-12/20</td>
               <td><a href="https://math.richardgriffon.me/" target="_blank">Richard Griffon</a>.</td>
             </tr>
-          <\tbody>
+          </tbody>
 </table>
 
 <h3>PhD student</h3>
@@ -60,7 +60,7 @@ title: About
               <td style="padding:0 1em 0 0">&bull; 09/17-08/21</td>
               <td><a href="https://joachimpetit.github.io/" target="_blank">Joachim Petit</a>.</td>
             </tr>
-          <\tbody>
+          </tbody>
 </table>
 
 <h3>Education</h3>
