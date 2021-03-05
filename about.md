@@ -8,7 +8,7 @@ title: About
 <table>
           <tbody>
             <tr>
-              <td style="padding:0 1em 0 0">&bull; &nbsp; 09/17-</td>
+              <td style="padding:0 1em 0 0">&bull; 09/17-</td>
               <td>SNSF Professor, Universität Basel.</td>
             </tr>
             <tr>
