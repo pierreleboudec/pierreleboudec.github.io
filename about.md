@@ -69,7 +69,7 @@ title: About
           <tbody>
             <tr>
               <td style="padding:0 1em 0 0">&bull; 09/09-08/12</td>
-              <td>PhD, Institut de Mathématiques de Jussieu, Paris, supervised by Régis de la Bretèche.</td>
+              <td>PhD, Institut de Mathématiques de Jussieu, Paris, advised by Régis de la Bretèche.</td>
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">&bull; 09/06-08/09</td>
