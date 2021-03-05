@@ -3,9 +3,12 @@ layout: post
 title: About
 ---
 
+<html>
+        
 <h3>Employment</h3>
-        <table style="width:47%">
-          <tbody>
+
+<table style="width:47%">
+         <tbody>
             <tr>
               <td>09/2017-Present</td>
               <td>SNSF Professor, Universität Basel.</td>
@@ -30,5 +33,7 @@ title: About
               <td><br></td>
               <td>Mentored by Peter Sarnak.</td>
             </tr>
-          </tbody>
-        </table>
+         </tbody>
+</table>
+        
+<\html>
