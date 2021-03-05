@@ -2,12 +2,10 @@
 layout: post
 title: About
 ---
-
-<html>
         
 <h3>Employment</h3>
 
-<table style="width:47%">
+<table style="padding:0.25em">
          <tbody>
             <tr>
               <td>09/2017-Present</td>
@@ -36,4 +34,4 @@ title: About
          </tbody>
 </table>
         
-<\html>
+
