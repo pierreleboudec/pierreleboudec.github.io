@@ -8,7 +8,7 @@ title: About
 <table>
          <tbody>
             <tr>
-              <td style="padding:0 1em 0 0">&bull; 09/17-Present</td>
+              <td style="padding:0 1em 0 0">&bull; 09/17-</td>
               <td style="padding:0 1em 0 0">SNSF Professor, Universität Basel.</td>
             </tr>
             <tr>
@@ -17,7 +17,7 @@ title: About
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">&bull; 09/13-08/16</td>
-              <td style="padding:0 1em 0 0">Postdoctoral Researcher, Ecole Polytechnique Fédérale de Lausanne, mentored by Philippe Michel.</td>
+              <td style="padding:0 1em 0 0">Postdoc, Ecole Polytechnique Fédérale de Lausanne, mentored by Philippe Michel.</td>
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">&bull; 09/12-08/13</td>
