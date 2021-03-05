@@ -4,7 +4,7 @@ title: About
 ---
 
 <h3>Employment</h3>
-        <table style="padding:2px">
+        <table style="width:47%">
           <tbody>
             <tr>
               <td>09/2017-Present</td>
