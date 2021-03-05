@@ -7,19 +7,19 @@
 .site-masthead h1 {
   font-size: 1.5em;
   margin-bottom: 0;
-  margin-top: 1em;
+  margin-top: 1.5em;
   padding: 0 2rem;
   @media (min-width: $on-tablet) {
-    font-size: 2.5em;
+    font-size: 2.4em;
   }
 }
 
 .site-masthead h2 {
   color: $muted-text-color;
-  font-size: 0.75em;
+  font-size: 1em;
   margin: 0;
   padding: 0 2rem;
   @media (min-width: $on-tablet) {
-    font-size: 1.5em;
+    font-size: 1.6em;
   }
 }
