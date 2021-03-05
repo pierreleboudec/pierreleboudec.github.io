@@ -69,7 +69,7 @@ title: About
           <tbody>
             <tr>
               <td style="padding:0 1em 0 0">&bull; 09/09-08/12</td>
-              <td>PhD degree, Institut de Mathématiques de Jussieu, Paris, advised by Régis de la Bretèche.</td>
+              <td>PhD, Institut de Mathématiques de Jussieu, Paris, advised by Régis de la Bretèche.</td>
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">&bull; 09/06-08/09</td>
@@ -77,7 +77,7 @@ title: About
             </tr>
             <tr>
               <td style="text-align:right;padding:0 1em 0 0">07/09</td>
-              <td>Master's degree, Université Joseph Fourier, Grenoble.</td>
+              <td>Master, Université Joseph Fourier, Grenoble.</td>
             </tr>
             <tr>
               <td style="text-align:right;padding:0 1em 0 0">07/09</td>
@@ -85,7 +85,7 @@ title: About
             </tr>
             <tr>
               <td style="text-align:right;padding:0 1em 0 0">07/07</td>
-              <td>Bachelor's degree, Ecole Normale Supérieure de Lyon.</td>
+              <td>Bachelor, Ecole Normale Supérieure de Lyon.</td>
             </tr>
           </tbody>
 </table>
