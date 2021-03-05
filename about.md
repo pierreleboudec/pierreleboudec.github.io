@@ -8,7 +8,7 @@ title: About
 <table>
           <tbody>
             <tr>
-              <td style="padding:0 1em 0 0">&bull; 09/17-</td>
+              <td style="padding:0 1em 0 0">&bull; &nbsp; 09/17-</td>
               <td>SNSF Professor, Universität Basel.</td>
             </tr>
             <tr>
@@ -43,11 +43,11 @@ title: About
           <tbody>
             <tr>
               <td style="padding:0 1em 0 0">&bull; 09/19-07/20</td>
-              <td><a href="http://people.math.harvard.edu/~mavraki/" target="_blank">Myrto Mavraki</a>.</td>
+              <td><a href="http://people.math.harvard.edu/~mavraki/" target="_blank">Myrto Mavraki</a></td>
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">&bull; 09/18-12/20</td>
-              <td><a href="https://math.richardgriffon.me/" target="_blank">Richard Griffon</a>.</td>
+              <td><a href="https://math.richardgriffon.me/" target="_blank">Richard Griffon</a></td>
             </tr>
           </tbody>
 </table>
@@ -58,7 +58,7 @@ title: About
           <tbody>
             <tr>
               <td style="padding:0 1em 0 0">&bull; 09/17-08/21</td>
-              <td><a href="https://joachimpetit.github.io/" target="_blank">Joachim Petit</a>.</td>
+              <td><a href="https://joachimpetit.github.io/" target="_blank">Joachim Petit</a></td>
             </tr>
           </tbody>
 </table>
@@ -69,23 +69,23 @@ title: About
           <tbody>
             <tr>
               <td style="padding:0 1em 0 0">&bull; 09/09-08/12</td>
-              <td>PhD in Mathematics, Institut de Mathématiques de Jussieu, Paris, supervised by Régis de la Bretèche.</td>
+              <td>PhD in Mathematics, Institut de Mathématiques de Jussieu, Paris, advised by Régis de la Bretèche.</td>
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">&bull; 09/06-08/09</td>
-              <td><i>Elève Normalien</i>, Ecole Normale Supérieure de Lyon.</td>
+              <td>Elève Normalien, Ecole Normale Supérieure de Lyon.</td>
             </tr>
             <tr>
               <td style="text-align:right;padding:0 1em 0 0">07/09</td>
-              <td>Master's degree in Mathematics, Université Joseph Fourier, Grenoble.</td>
+              <td>Master in Mathematics, Université Joseph Fourier, Grenoble.</td>
             </tr>
             <tr>
               <td style="text-align:right;padding:0 1em 0 0">07/09</td>
-              <td><i>Agrégation de Mathématiques</i>, national rank 14th.</td>
+              <td>Agrégation de Mathématiques, national rank 14th.</td>
             </tr>
             <tr>
               <td style="text-align:right;padding:0 1em 0 0">07/07</td>
-              <td>Bachelor's degree in Mathematics, Ecole Normale Supérieure de Lyon.</td>
+              <td>Bachelor in Mathematics, Ecole Normale Supérieure de Lyon.</td>
             </tr>
           </tbody>
 </table>
