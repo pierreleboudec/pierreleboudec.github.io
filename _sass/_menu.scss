@@ -1,6 +1,7 @@
 .site-navigation {
-  margin-top: 2rem;
-  padding: 0 1rem;
+  background: $menu-color;
+  margin-top: 0;
+  padding: 2rem 1rem;
   &:hover,
   &:focus-within {
     a {
@@ -20,7 +21,7 @@
   list-style: none;
   font-size: .875em;
   font-variant: small-caps;
-  margin: 0;
+  margin: 0 1em;
   &.active a {
     text-decoration: underline;
   }
