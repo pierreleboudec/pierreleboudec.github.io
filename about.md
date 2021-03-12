@@ -103,8 +103,7 @@ title: About
 
 <h3>Teaching</h3>
 
-At Universität Basel
-<br>
+<b>Universität Basel</b>
 
 <table>
           <tbody>
@@ -131,9 +130,7 @@ At Universität Basel
           </tbody>
 </table>
 
-<br>
-At Ecole Polytechnique Fédérale de Lausanne
-<br>
+<b>Ecole Polytechnique Fédérale de Lausanne</b>
 
 <table>
           <tbody>
