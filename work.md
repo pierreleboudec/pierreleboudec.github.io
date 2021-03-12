@@ -5,7 +5,7 @@ title: Work
 
 <h3>Publications</h3>
 
-   <ul>
+   <ul style="margin-top:0; list-style:none">
      <li><a href="" target="_blank">Arithmetic dynamics of random polynomials</a> (with <a href="http://people.math.harvard.edu/~mavraki/" target="_blank">M. Mavraki</a>)<br>
        Forthcoming.</li>
      <li><a href="https://arxiv.org/abs/2006.02356" target="_blank">The Hasse principle for random Fano hypersurfaces</a> (with <a href="https://pub.ist.ac.at/%7Etbrownin/index.html" target="_blank">T. Browning</a> and <a href="https://williamsawin.com" target="_blank">W. Sawin</a>)<br>
