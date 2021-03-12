@@ -26,33 +26,6 @@ title: About
           </tbody>
 </table>
 
-<h3>Education</h3>
-
-<table>
-          <tbody>
-            <tr>
-              <td style="padding:0 1em 0 0">09/09-08/12</td>
-              <td>PhD, Institut de Mathématiques de Jussieu, Paris, advised by <a href="https://www.researchgate.net/profile/Regis-De-La-Breteche" target="_blank">Régis de la Bretèche</a>.</td>
-            </tr>
-            <tr>
-              <td style="padding:0 1em 0 0">09/06-08/09</td>
-              <td>Elève Normalien, Ecole Normale Supérieure de Lyon.</td>
-            </tr>
-            <tr>
-              <td style="text-align:right;padding:0 1em 0 0">07/09</td>
-              <td>Master in Mathematics, Université Joseph Fourier, Grenoble.</td>
-            </tr>
-            <tr>
-              <td style="text-align:right;padding:0 1em 0 0">07/09</td>
-              <td>Agrégation de Mathématiques, national rank 14th.</td>
-            </tr>
-            <tr>
-              <td style="text-align:right;padding:0 1em 0 0">07/07</td>
-              <td>Bachelor in Mathematics, Ecole Normale Supérieure de Lyon.</td>
-            </tr>    
-          </tbody>
-</table>
-
 <h3>Funding</h3>
 
 <table>
@@ -101,9 +74,34 @@ title: About
           </tbody>
 </table>
 
-<h3>Teaching</h3>
+<h3>Education</h3>
 
-<h4>Courses taught at Universität Basel</h4>
+<table>
+          <tbody>
+            <tr>
+              <td style="padding:0 1em 0 0">09/09-08/12</td>
+              <td>PhD, Institut de Mathématiques de Jussieu, Paris, advised by <a href="https://www.researchgate.net/profile/Regis-De-La-Breteche" target="_blank">Régis de la Bretèche</a>.</td>
+            </tr>
+            <tr>
+              <td style="padding:0 1em 0 0">09/06-08/09</td>
+              <td>Elève Normalien, Ecole Normale Supérieure de Lyon.</td>
+            </tr>
+            <tr>
+              <td style="text-align:right;padding:0 1em 0 0">07/09</td>
+              <td>Master in Mathematics, Université Joseph Fourier, Grenoble.</td>
+            </tr>
+            <tr>
+              <td style="text-align:right;padding:0 1em 0 0">07/09</td>
+              <td>Agrégation de Mathématiques, national rank 14th.</td>
+            </tr>
+            <tr>
+              <td style="text-align:right;padding:0 1em 0 0">07/07</td>
+              <td>Bachelor in Mathematics, Ecole Normale Supérieure de Lyon.</td>
+            </tr>    
+          </tbody>
+</table>
+
+<h3>Teaching at Universität Basel</h3>
 
 <table>
           <tbody>
@@ -130,7 +128,7 @@ title: About
           </tbody>
 </table>
 
-<h4 style="margin-top:0.5em">Courses taught at Ecole Polytechnique Fédérale de Lausanne</h4>
+<h3>Teaching at Ecole Polytechnique Fédérale de Lausanne</h3>
 
 <table>
           <tbody>
