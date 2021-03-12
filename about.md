@@ -96,44 +96,52 @@ title: About
 
 <h3>Teaching</h3>
 
+<h6>At Universität Basel</h6>
+
 <table>
           <tbody>
             <tr>
               <td style="padding:0 1em 0 0">&bull;&nbsp;02/21-05/21</td>
-              <td>Bachelor's course <i>Complex Analysis and Number Theory</i>, Universität Basel.</td>
+              <td>Complex Analysis and Number Theory, Bachelor's course.</td>
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">&bull;&nbsp;09/19-12/19</td>
-              <td>Master's course <a href="http://math.richardgriffon.me/AANT1920.html" target="_blank"><i>Analytic Algebraic Number Theory</i></a>, Universität Basel.</td>
+              <td><a href="http://math.richardgriffon.me/AANT1920.html" target="_blank">Analytic Algebraic Number Theory</a>, Master's course.</td>
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">&bull;&nbsp;09/18-12/18</td>
-              <td>Reading seminar <i>Introduction to the Arithmetic of Elliptic Curves</i>, Universität Basel.</td>
+              <td>Introduction to the Arithmetic of Elliptic Curves, Reading seminar.</td>
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">&bull;&nbsp;02/18-05/18</td>
-              <td>Bachelor's course <i>Complex Analysis and Number Theory</i>, Universität Basel.</td>
+              <td>Complex Analysis and Number Theory, Bachelor's course.</td>
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">&bull;&nbsp;09/17-12/17</td>
-              <td>Reading seminar <i>The Distribution of Prime Numbers</i>, Universität Basel.</td>
+              <td>The Distribution of Prime Numbers, Reading seminar.</td>
             </tr>
+          </tbody>
+</table>
+
+<h6>At Ecole Polytechnique Fédérale de Lausanne</h6>
+
+<table>
+          <tbody>
             <tr>
               <td style="padding:0 1em 0 0">&bull;&nbsp;02/17-05/17</td>
-              <td>Bachelor's course <i>Introduction à la Théorie Analytique des Nombres</i>, Ecole Polytechnique Fédérale de Lausanne.</td>
+              <td>Introduction à la Théorie Analytique des Nombres, Bachelor's course.</td>
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">&bull;&nbsp;09/16-12/16</td>
-              <td>Bachelor's course <i>Algèbre Linéaire</i>, Ecole Polytechnique Fédérale de Lausanne.</td>
+              <td>Algèbre Linéaire, Bachelor's course.</td>
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">&bull;&nbsp;02/16-05/16</td>
-              <td>Master's course <a href="http://wiki.epfl.ch/tan-tnt/tnt2015-2016" target="_blank"><i>Introduction
-                    to Modular Forms</i></a>, Ecole Polytechnique Fédérale de Lausanne.</td>
+              <td><a href="http://wiki.epfl.ch/tan-tnt/tnt2015-2016" target="_blank">Introduction to Modular Forms</a>, Master's course.</td>
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">&bull;&nbsp;02/15-05/15</td>
-              <td>Doctoral course <i>Recent Topics on Prime Numbers</i> (about <a target="_blank" href="https://doi.org/10.1007/s00222-016-0694-0">Prime values of a^2+p^4</a>), Ecole Polytechnique Fédérale de Lausanne.</td>
+              <td>Recent Topics on Prime Numbers (about <a target="_blank" href="https://doi.org/10.1007/s00222-016-0694-0">Prime values of a^2+p^4</a>), Doctoral course.</td>
             </tr>
           </tbody>
 </table>
