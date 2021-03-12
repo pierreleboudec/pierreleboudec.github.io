@@ -17,11 +17,11 @@ title: About
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">&bull;&nbsp;09/13-08/16</td>
-              <td>Postdoc, Ecole Polytechnique Fédérale de Lausanne, mentored by Philippe Michel.</td>
+              <td>Postdoc, Ecole Polytechnique Fédérale de Lausanne, mentored by <a href="https://www.epfl.ch/labs/tan/philippe-michel/" target="_blank">Philippe Michel</a>.</td>
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">&bull;&nbsp;09/12-08/13</td>
-              <td>Member, Institute for Advanced Study, Princeton, mentored by Peter Sarnak.</td>
+              <td>Member, Institute for Advanced Study, Princeton, mentored by <a href="https://www.ias.edu/math/people/faculty/sarnak" target="_blank">Peter Sarnak</a>.</td>
             </tr>
           </tbody>
 </table>
@@ -32,7 +32,7 @@ title: About
           <tbody>
             <tr>
               <td style="padding:0 1em 0 0">&bull;&nbsp;09/09-08/12</td>
-              <td>PhD, Institut de Mathématiques de Jussieu, Paris, advised by Régis de la Bretèche.</td>
+              <td>PhD, Institut de Mathématiques de Jussieu, Paris, advised by <a href="https://www.researchgate.net/profile/Regis-De-La-Breteche" target="_blank">Régis de la Bretèche</a>.</td>
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">&bull;&nbsp;09/06-08/09</td>
@@ -103,7 +103,7 @@ title: About
 
 <h3>Teaching</h3>
 
-<b>Universität Basel</b>
+<h4>Universität Basel</h4>
 
 <table>
           <tbody>
@@ -130,7 +130,7 @@ title: About
           </tbody>
 </table>
 
-<b>Ecole Polytechnique Fédérale de Lausanne</b>
+<h4>Ecole Polytechnique Fédérale de Lausanne</h4>
 
 <table>
           <tbody>
