@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
         
-<h3>Employment &#x26; Education</h3>
+<h3>Employment</h3>
 
 <table>
           <tbody>
@@ -23,6 +23,13 @@ title: About
               <td style="padding:0 1em 0 0">&bull;&nbsp;09/12-08/13</td>
               <td>Member, Institute for Advanced Study, Princeton, mentored by Peter Sarnak.</td>
             </tr>
+          </tbody>
+</table>
+
+<h3>Education</h3>
+
+<table>
+          <tbody>
             <tr>
               <td style="padding:0 1em 0 0">&bull;&nbsp;09/09-08/12</td>
               <td>PhD, Institut de Mathématiques de Jussieu, Paris, advised by Régis de la Bretèche.</td>
@@ -96,7 +103,8 @@ title: About
 
 <h3>Teaching</h3>
 
-<h6>At Universität Basel</h6>
+At Universität Basel
+<br>
 
 <table>
           <tbody>
@@ -123,7 +131,9 @@ title: About
           </tbody>
 </table>
 
-<h6>At Ecole Polytechnique Fédérale de Lausanne</h6>
+<br>
+At Ecole Polytechnique Fédérale de Lausanne
+<br>
 
 <table>
           <tbody>
@@ -141,7 +151,7 @@ title: About
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">&bull;&nbsp;02/15-05/15</td>
-              <td>Recent Topics on Prime Numbers (about <a target="_blank" href="https://doi.org/10.1007/s00222-016-0694-0">Prime values of a^2+p^4</a>), Doctoral course.</td>
+              <td>Recent Topics on Prime Numbers (on <a target="_blank" href="https://doi.org/10.1007/s00222-016-0694-0">Prime values of a^2+p^4</a>), Doctoral course.</td>
             </tr>
           </tbody>
 </table>
