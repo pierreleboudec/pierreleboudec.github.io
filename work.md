@@ -5,7 +5,7 @@ title: Work
 
 <h3>Publications</h3>
 
-   <ul style="margin-top:0; list-style:none">
+   <ol style="margin-top:0;" reversed>
      <li><a href="" target="_blank">Arithmetic dynamics of random polynomials</a> (with <a href="http://people.math.harvard.edu/~mavraki/" target="_blank">M. Mavraki</a>)<br>
        Forthcoming.</li>
      <li><a href="https://arxiv.org/abs/2006.02356" target="_blank">The Hasse principle for random Fano hypersurfaces</a> (with <a href="https://pub.ist.ac.at/%7Etbrownin/index.html" target="_blank">T. Browning</a> and <a href="https://williamsawin.com" target="_blank">W. Sawin</a>)<br>
@@ -36,12 +36,12 @@ title: Work
        Monatsh. Math. 167 (2012), no. 3-4, 481–502.</li>
      <li><a href="https://doi.org/10.4064/aa151-2-1" target="_blank">Manin's conjecture for two quartic del Pezzo surfaces with \(3\mathbf{A}_1\) and \(\mathbf{A}_1+\mathbf{A}_2\) singularity types</a><br>
        Acta Arith. 151 (2012), no. 2, 109–163.</li>
-   </ul>
+   </ol>
         
 <h3>PhD Thesis</h3>
         
-   <ul>
-     <li>Distribution of rational points on certain del Pezzo surfaces<br>
+   <ol style="margin-top:0;">
+     <li value="0">Distribution of rational points on certain del Pezzo surfaces<br>
        PhD Thesis, July 2012, 186 pages.</li>
-   </ul>
+   </ol>
         
