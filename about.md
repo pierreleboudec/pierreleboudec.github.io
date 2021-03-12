@@ -109,23 +109,23 @@ title: About
           <tbody>
             <tr>
               <td style="padding:0 1.3em 0 0">Spring&nbsp;2021</td>
-              <td>Complex Analysis and Number Theory (Bachelor).</td>
+              <td>Complex Analysis and Number Theory (Bachelor)</td>
             </tr>
             <tr>
               <td style="padding:0 1.3em 0 0">Fall&nbsp;2019</td>
-              <td><a href="http://math.richardgriffon.me/AANT1920.html" target="_blank">Analytic Algebraic Number Theory</a> (Master).</td>
+              <td><a href="http://math.richardgriffon.me/AANT1920.html" target="_blank">Analytic Algebraic Number Theory</a> (Master)</td>
             </tr>
             <tr>
               <td style="padding:0 1.3em 0 0">Fall&nbsp;2018</td>
-              <td>Introduction to the Arithmetic of Elliptic Curves (Seminar).</td>
+              <td>Introduction to the Arithmetic of Elliptic Curves (Seminar)</td>
             </tr>
             <tr>
               <td style="padding:0 1.3em 0 0">Spring&nbsp;2018</td>
-              <td>Complex Analysis and Number Theory (Bachelor).</td>
+              <td>Complex Analysis and Number Theory (Bachelor)</td>
             </tr>
             <tr>
               <td style="padding:0 1.3em 0 0">Fall&nbsp;2017</td>
-              <td>The Distribution of Prime Numbers (Seminar).</td>
+              <td>The Distribution of Prime Numbers (Seminar)</td>
             </tr>
           </tbody>
 </table>
@@ -136,19 +136,19 @@ title: About
           <tbody>
             <tr>
               <td style="padding:0 1.3em 0 0">Spring&nbsp;2017</td>
-              <td>Introduction à la Théorie Analytique des Nombres (Bachelor).</td>
+              <td>Introduction à la Théorie Analytique des Nombres (Bachelor)</td>
             </tr>
             <tr>
               <td style="padding:0 1.3em 0 0">Fall&nbsp;2016</td>
-              <td>Algèbre Linéaire (Bachelor).</td>
+              <td>Algèbre Linéaire (Bachelor)</td>
             </tr>
             <tr>
               <td style="padding:0 1.3em 0 0">Spring&nbsp;2016</td>
-              <td><a href="http://wiki.epfl.ch/tan-tnt/tnt2015-2016" target="_blank">Introduction to Modular Forms</a> (Master).</td>
+              <td><a href="http://wiki.epfl.ch/tan-tnt/tnt2015-2016" target="_blank">Introduction to Modular Forms</a> (Master)</td>
             </tr>
             <tr>
               <td style="padding:0 1.3em 0 0">Spring&nbsp;2015</td>
-              <td>Recent Topics on Prime Numbers (Doctoral course on <a target="_blank" href="https://doi.org/10.1007/s00222-016-0694-0">Prime values of \(a^2+p^4\)</a>).</td>
+              <td>Recent Topics on Prime Numbers (Doctoral course on <a target="_blank" href="https://doi.org/10.1007/s00222-016-0694-0">Prime values of \(a^2+p^4\)</a>)</td>
             </tr>
           </tbody>
 </table>
