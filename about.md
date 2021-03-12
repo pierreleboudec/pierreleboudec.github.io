@@ -105,7 +105,7 @@ title: About
 
 <h4>Universität Basel</h4>
 
-<table>
+<table style="padding: 0 0 0.1em">
           <tbody>
             <tr>
               <td style="padding:0 1em 0 0">&bull;&nbsp;Spring 2021</td>
@@ -129,8 +129,6 @@ title: About
             </tr>
           </tbody>
 </table>
-
-<br>
 
 <h4>Ecole Polytechnique Fédérale de Lausanne</h4>
 
