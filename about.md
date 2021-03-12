@@ -52,13 +52,24 @@ title: About
           </tbody>
 </table>
 
-<h3>PhD student</h3>
+<h3>PhD students</h3>
 
 <table>
           <tbody>
             <tr>
               <td style="padding:0 1em 0 0">&bull; 09/17-08/21</td>
               <td><a href="https://joachimpetit.github.io/" target="_blank">Joachim Petit</a></td>
+            </tr>
+          </tbody>
+</table>
+
+<h3>Major events organized</h3>
+
+<table>
+          <tbody>
+            <tr>
+              <td style="padding:0 1em 0 0">&bull;&nbsp;09/19</td>
+              <td><a href="https://numbertheory.dmi.unibas.ch/trip2019/" target="_blank">Topics in Rational and Integral Points</a>, Universität Basel.</td>
             </tr>
           </tbody>
 </table>
