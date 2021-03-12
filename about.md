@@ -68,7 +68,7 @@ title: About
 <table>
           <tbody>
             <tr>
-              <td style="padding:0 3em 0 0">&bull;&nbsp;09/19</td>
+              <td style="padding:0 1em 0 0">&bull;&nbsp;02-13/09/19</td>
               <td><a href="https://numbertheory.dmi.unibas.ch/trip2019/" target="_blank">Topics in Rational and Integral Points</a>, Universität Basel.</td>
             </tr>
           </tbody>
