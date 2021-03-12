@@ -103,52 +103,52 @@ title: About
 
 <h3>Teaching</h3>
 
-<h4>Universität Basel</h4>
+<h4>Courses taught at Universität Basel</h4>
 
 <table>
           <tbody>
             <tr>
               <td style="padding:0 1.3em 0 0">Spring&nbsp;2021</td>
-              <td>Bachelor's course, Complex Analysis and Number Theory.</td>
+              <td>Complex Analysis and Number Theory (Bachelor).</td>
             </tr>
             <tr>
               <td style="padding:0 1.3em 0 0">Fall&nbsp;2019</td>
-              <td>Master's course, <a href="http://math.richardgriffon.me/AANT1920.html" target="_blank">Analytic Algebraic Number Theory</a>.</td>
+              <td><a href="http://math.richardgriffon.me/AANT1920.html" target="_blank">Analytic Algebraic Number Theory</a> (Master).</td>
             </tr>
             <tr>
               <td style="padding:0 1.3em 0 0">Fall&nbsp;2018</td>
-              <td>Reading seminar, Introduction to the Arithmetic of Elliptic Curves.</td>
+              <td>Introduction to the Arithmetic of Elliptic Curves (Seminar).</td>
             </tr>
             <tr>
               <td style="padding:0 1.3em 0 0">Spring&nbsp;2018</td>
-              <td>Bachelor's course, Complex Analysis and Number Theory.</td>
+              <td>Complex Analysis and Number Theory (Bachelor).</td>
             </tr>
             <tr>
               <td style="padding:0 1.3em 0 0">Fall&nbsp;2017</td>
-              <td>Reading seminar, The Distribution of Prime Numbers.</td>
+              <td>The Distribution of Prime Numbers (Seminar).</td>
             </tr>
           </tbody>
 </table>
 
-<h4 style="margin-top:0.5em">Ecole Polytechnique Fédérale de Lausanne</h4>
+<h4 style="margin-top:0.5em">Courses taught at Ecole Polytechnique Fédérale de Lausanne</h4>
 
 <table>
           <tbody>
             <tr>
               <td style="padding:0 1.3em 0 0">Spring&nbsp;2017</td>
-              <td>Bachelor's course, Introduction à la Théorie Analytique des Nombres.</td>
+              <td>Introduction à la Théorie Analytique des Nombres (Bachelor).</td>
             </tr>
             <tr>
               <td style="padding:0 1.3em 0 0">Fall&nbsp;2016</td>
-              <td>Bachelor's course, Algèbre Linéaire.</td>
+              <td>Algèbre Linéaire (Bachelor).</td>
             </tr>
             <tr>
               <td style="padding:0 1.3em 0 0">Spring&nbsp;2016</td>
-              <td>Master's course, <a href="http://wiki.epfl.ch/tan-tnt/tnt2015-2016" target="_blank">Introduction to Modular Forms</a>.</td>
+              <td><a href="http://wiki.epfl.ch/tan-tnt/tnt2015-2016" target="_blank">Introduction to Modular Forms</a> (Master).</td>
             </tr>
             <tr>
               <td style="padding:0 1.3em 0 0">Spring&nbsp;2015</td>
-              <td>Doctoral course, Recent Topics on Prime Numbers (on <a target="_blank" href="https://doi.org/10.1007/s00222-016-0694-0">Prime values of \(a^2+p^4\)</a>).</td>
+              <td>Recent Topics on Prime Numbers (Doctoral course on <a target="_blank" href="https://doi.org/10.1007/s00222-016-0694-0">Prime values of \(a^2+p^4\)</a>).</td>
             </tr>
           </tbody>
 </table>
