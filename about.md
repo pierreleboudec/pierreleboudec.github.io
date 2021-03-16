@@ -43,11 +43,11 @@ title: About
           <tbody>
             <tr>
               <td style="padding:0 1em 0 0">09/19-07/20</td>
-              <td><a href="http://people.math.harvard.edu/~mavraki/" target="_blank">Myrto Mavraki, now at Harvard University.</a></td>
+              <td><a href="http://people.math.harvard.edu/~mavraki/" target="_blank">Myrto Mavraki</a>, now at Harvard University.</td>
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">09/18-12/20</td>
-              <td><a href="https://math.richardgriffon.me/" target="_blank">Richard Griffon, now at Université Clermont Auvergne.</a></td>
+              <td><a href="https://math.richardgriffon.me/" target="_blank">Richard Griffon</a>, now at Université Clermont Auvergne.</td>
             </tr>
           </tbody>
 </table>
