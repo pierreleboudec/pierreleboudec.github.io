@@ -43,16 +43,16 @@ title: About
           <tbody>
             <tr>
               <td style="padding:0 1em 0 0">09/19-07/20</td>
-              <td><a href="http://people.math.harvard.edu/~mavraki/" target="_blank">Myrto Mavraki</a></td>
+              <td><a href="http://people.math.harvard.edu/~mavraki/" target="_blank">Myrto Mavraki, now at Harvard University.</a></td>
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">09/18-12/20</td>
-              <td><a href="https://math.richardgriffon.me/" target="_blank">Richard Griffon</a></td>
+              <td><a href="https://math.richardgriffon.me/" target="_blank">Richard Griffon, now at Université Clermont Auvergne.</a></td>
             </tr>
           </tbody>
 </table>
 
-<h3>PhD students</h3>
+<h3>PhD student</h3>
 
 <table>
           <tbody>
@@ -63,7 +63,7 @@ title: About
           </tbody>
 </table>
 
-<h3>Major events organized</h3>
+<h3>Major event coorganized</h3>
 
 <table>
           <tbody>
@@ -101,7 +101,9 @@ title: About
           </tbody>
 </table>
 
-<h3>Teaching at Universität Basel</h3>
+<h3>Teaching</h3>
+
+<h4>&bull; At Universität Basel</h4>
 
 <table>
           <tbody>
@@ -128,7 +130,7 @@ title: About
           </tbody>
 </table>
 
-<h3>Teaching at Ecole Polytechnique Fédérale de Lausanne</h3>
+<h4>&bull; At Ecole Polytechnique Fédérale de Lausanne</h4>
 
 <table>
           <tbody>
