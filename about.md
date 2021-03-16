@@ -103,7 +103,7 @@ title: About
 
 <h3>Teaching</h3>
 
-<h4>&bull; At Universität Basel</h4>
+<h4>At Universität Basel</h4>
 
 <table>
           <tbody>
@@ -130,7 +130,7 @@ title: About
           </tbody>
 </table>
 
-<h4>&bull; At Ecole Polytechnique Fédérale de Lausanne</h4>
+<h4>At Ecole Polytechnique Fédérale de Lausanne</h4>
 
 <table>
           <tbody>
