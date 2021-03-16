@@ -38,10 +38,9 @@ title: Work
        Acta Arith. 151 (2012), no. 2, 109–163.</li>
    </ol>
         
-<h3>PhD Thesis</h3>
+<h3>Thesis</h3>
         
    <ol style="margin-top:0;">
      <li value="0">Distribution of rational points on certain del Pezzo surfaces<br>
        PhD Thesis, July 2012, 186 pages.</li>
    </ol>
-        
