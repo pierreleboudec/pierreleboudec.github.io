@@ -8,7 +8,7 @@ title: About
 <table>
           <tbody>
             <tr>
-              <td style="padding:0 1em 0 0">09/17-</td>
+              <td style="padding:0 1em 0 0">09/17-08/23</td>
               <td>SNSF Professor, Universität Basel.</td>
             </tr>
             <tr>
@@ -31,6 +31,10 @@ title: About
 <table>
           <tbody>
             <tr>
+              <td style="padding:0 1em 0 0">09/21-08/23</td>
+              <td>SNSF Professorship, Swiss National Science Foundation, CHF 755'989.</td>
+            </tr>     
+            <tr>
               <td style="padding:0 1em 0 0">09/17-08/21</td>
               <td>SNSF Professorship, Swiss National Science Foundation, CHF 1'144'648.</td>
             </tr>
@@ -41,6 +45,18 @@ title: About
 
 <table>
           <tbody>
+            <tr>
+              <td style="padding:0 1em 0 0">09/22-08/23</td>
+              <td><a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1419200" target="_blank">Dante Bonolis</a></td>
+            </tr>      
+            <tr>
+              <td style="padding:0 1em 0 0">09/22-08/23</td>
+              <td><a href="https://sites.google.com/view/ratkodarda/welcome" target="_blank">Ratko Darda</a></td>
+            </tr>      
+            <tr>
+              <td style="padding:0 1em 0 0">09/22-08/23</td>
+              <td><a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1378320" target="_blank">Julian Demeio</a></td>
+            </tr>      
             <tr>
               <td style="padding:0 1em 0 0">09/19-07/20</td>
               <td><a href="http://people.math.harvard.edu/~mavraki/" target="_blank">Myrto Mavraki</a>, now at Harvard University.</td>
@@ -58,7 +74,7 @@ title: About
           <tbody>
             <tr>
               <td style="padding:0 1em 0 0">09/17-08/21</td>
-              <td><a href="https://joachimpetit.github.io/" target="_blank">Joachim Petit</a></td>
+              <td><a href="https://joachimpetit.github.io/" target="_blank">Joachim Petit</a>, now at the University of Toronto.</td>
             </tr>
           </tbody>
 </table>
@@ -107,6 +123,18 @@ title: About
 
 <table>
           <tbody>
+            <tr>
+              <td style="padding:0 1.3em 0 0">Spring&nbsp;2023</td>
+              <td>Introduction to Combinatorics (Bachelor)</td>
+            </tr>
+            <tr>
+              <td style="padding:0 1.3em 0 0">Fall&nbsp;2022</td>
+              <td>Introduction to Analytic Number Theory (Bachelor)</td>
+            </tr>      
+            <tr>
+              <td style="padding:0 1.3em 0 0">Spring&nbsp;2022</td>
+              <td>Proofs from the Book (Seminar)</td>
+            </tr>      
             <tr>
               <td style="padding:0 1.3em 0 0">Spring&nbsp;2021</td>
               <td>Complex Analysis and Number Theory (Bachelor)</td>
