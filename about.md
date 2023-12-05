@@ -8,11 +8,11 @@ title: About
 <table>
           <tbody>
             <tr>
-              <td style="padding:0 1em 0 0">??/24-??/24</td>
-              <td>Invited researcher, Institut des Hautes Etudes Scientifiques, Paris.</td>
+              <td style="padding:0 1em 0 0">.../24-.../24</td>
+              <td>Invited researcher, Institut des Hautes Etudes Scientifiques, Bures-sur-Yvette.</td>
             </tr>
             <tr>
-              <td style="padding:0 1em 0 0">09/17-??/24</td>
+              <td style="padding:0 1em 0 0">09/17-.../24</td>
               <td>SNSF Professor, Universität Basel.</td>
             </tr>
             <tr>
@@ -21,7 +21,7 @@ title: About
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">09/13-08/16</td>
-              <td>Postdoc, Ecole Polytechnique Fédérale de Lausanne, mentored by <a href="https://www.epfl.ch/labs/tan/philippe-michel/" target="_blank">Philippe Michel</a>.</td>
+              <td>Postdoc, Ecole Polytechnique Fédérale de Lausanne, mentored by <a href="https://www.epfl.ch/labs/tan/philippe-michel" target="_blank">Philippe Michel</a>.</td>
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">09/12-08/13</td>
@@ -59,7 +59,7 @@ title: About
             </tr>      
             <tr>
               <td style="padding:0 1em 0 0">09/22-08/23</td>
-              <td><a href="https://sites.google.com/view/ratkodarda/welcome" target="_blank">Ratko Darda</a>.</td>
+              <td><a href="https://sites.google.com/view/ratkodarda" target="_blank">Ratko Darda</a>.</td>
             </tr>      
             <tr>
               <td style="padding:0 1em 0 0">09/22-08/23</td>
@@ -67,11 +67,11 @@ title: About
             </tr>      
             <tr>
               <td style="padding:0 1em 0 0">09/19-07/20</td>
-              <td><a href="http://people.math.harvard.edu/~mavraki/" target="_blank">Myrto Mavraki</a>, moved to Harvard University.</td>
+              <td><a href="http://people.math.harvard.edu/~mavraki" target="_blank">Myrto Mavraki</a>, moved to Harvard University.</td>
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">09/18-12/20</td>
-              <td><a href="https://math.richardgriffon.me/" target="_blank">Richard Griffon</a>, moved to Université Clermont Auvergne.</td>
+              <td><a href="https://math.richardgriffon.me" target="_blank">Richard Griffon</a>, moved to Université Clermont Auvergne.</td>
             </tr>
           </tbody>
 </table>
@@ -82,7 +82,7 @@ title: About
           <tbody>
             <tr>
               <td style="padding:0 1em 0 0">09/17-08/21</td>
-              <td><a href="https://joachimpetit.github.io/" target="_blank">Joachim Petit</a>, moved to the University of Toronto.</td>
+              <td><a href="https://joachimpetit.github.io" target="_blank">Joachim Petit</a>, moved to the University of Toronto.</td>
             </tr>
           </tbody>
 </table>
@@ -93,7 +93,7 @@ title: About
           <tbody>
             <tr>
               <td style="padding:0 1em 0 0">02-13/09/19</td>
-              <td><a href="https://numbertheory.dmi.unibas.ch/trip2019/" target="_blank">Topics in Rational and Integral Points</a>, Universität Basel.</td>
+              <td><a href="https://numbertheory.dmi.unibas.ch/trip2019" target="_blank">Topics in Rational and Integral Points</a>, Universität Basel.</td>
             </tr>
           </tbody>
 </table>
