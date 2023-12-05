@@ -12,7 +12,7 @@ title: Works
        Forthcoming.</li>
      <li><a href="https://arxiv.org/abs/2112.12005" target="_blank">Arithmetic dynamics of random polynomials</a> (with <a href="http://people.math.harvard.edu/~mavraki" target="_blank">M. Mavraki</a>)<br>
        Submitted for publication.</li>
-     <li><a href="https://annals.math.princeton.edu/2023/197-3/p03" target="_blank">The Hasse principle for random Fano hypersurfaces</a> (with <a href="https://tdbrowning.github.io/tdb" target="_blank">T. Browning</a> and <a href="https://williamsawin.com" target="_blank">W. Sawin</a>)<br>
+     <li><a href="https://doi.org/10.4007/annals.2023.197.3.3" target="_blank">The Hasse principle for random Fano hypersurfaces</a> (with <a href="https://tdbrowning.github.io/tdb" target="_blank">T. Browning</a> and <a href="https://williamsawin.com" target="_blank">W. Sawin</a>)<br>
        Ann. of Math. (2) 197 (2023), no. 3, 1115–1203.</li>
      <li><a href="https://doi.org/10.2140/ant.2021.15.657" target="_blank">Height of rational points on random Fano hypersurfaces</a><br>
        Algebra Number Theory 15 (2021), no. 3, 657–672.</li>
