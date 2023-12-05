@@ -8,7 +8,11 @@ title: About
 <table>
           <tbody>
             <tr>
-              <td style="padding:0 1em 0 0">09/17-08/23</td>
+              <td style="padding:0 1em 0 0">??/24-??/24</td>
+              <td>Invited researcher, Institut des Hautes Etudes Scientifiques, Paris.</td>
+            </tr>
+            <tr>
+              <td style="padding:0 1em 0 0">09/17-??/24</td>
               <td>SNSF Professor, Universität Basel.</td>
             </tr>
             <tr>
@@ -31,7 +35,7 @@ title: About
 <table>
           <tbody>
             <tr>
-              <td style="padding:0 1em 0 0">09/21-08/23</td>
+              <td style="padding:0 1em 0 0">09/21-02/24</td>
               <td>SNSF Professorship, Swiss National Science Foundation, CHF 755'989.</td>
             </tr>     
             <tr>
@@ -46,24 +50,28 @@ title: About
 <table>
           <tbody>
             <tr>
+              <td style="padding:0 1em 0 0">06/23-08/23</td>
+              <td><a href="https://sites.google.com/view/larskuehne" target="_blank">Lars Kühne</a>, moved to University College Dublin.</td>
+            </tr>
+            <tr>
               <td style="padding:0 1em 0 0">09/22-08/23</td>
-              <td><a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1419200" target="_blank">Dante Bonolis</a></td>
+              <td><a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1419200" target="_blank">Dante Bonolis</a>, moved to Duke University.</td>
             </tr>      
             <tr>
               <td style="padding:0 1em 0 0">09/22-08/23</td>
-              <td><a href="https://sites.google.com/view/ratkodarda/welcome" target="_blank">Ratko Darda</a></td>
+              <td><a href="https://sites.google.com/view/ratkodarda/welcome" target="_blank">Ratko Darda</a>.</td>
             </tr>      
             <tr>
               <td style="padding:0 1em 0 0">09/22-08/23</td>
-              <td><a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1378320" target="_blank">Julian Demeio</a></td>
+              <td><a href="https://sites.google.com/view/julian-demeio" target="_blank">Julian Demeio</a>, moved to the University of Bath.</td>
             </tr>      
             <tr>
               <td style="padding:0 1em 0 0">09/19-07/20</td>
-              <td><a href="http://people.math.harvard.edu/~mavraki/" target="_blank">Myrto Mavraki</a>, now at Harvard University.</td>
+              <td><a href="http://people.math.harvard.edu/~mavraki/" target="_blank">Myrto Mavraki</a>, moved to Harvard University.</td>
             </tr>
             <tr>
               <td style="padding:0 1em 0 0">09/18-12/20</td>
-              <td><a href="https://math.richardgriffon.me/" target="_blank">Richard Griffon</a>, now at Université Clermont Auvergne.</td>
+              <td><a href="https://math.richardgriffon.me/" target="_blank">Richard Griffon</a>, moved to Université Clermont Auvergne.</td>
             </tr>
           </tbody>
 </table>
@@ -74,7 +82,7 @@ title: About
           <tbody>
             <tr>
               <td style="padding:0 1em 0 0">09/17-08/21</td>
-              <td><a href="https://joachimpetit.github.io/" target="_blank">Joachim Petit</a>, now at the University of Toronto.</td>
+              <td><a href="https://joachimpetit.github.io/" target="_blank">Joachim Petit</a>, moved to the University of Toronto.</td>
             </tr>
           </tbody>
 </table>
