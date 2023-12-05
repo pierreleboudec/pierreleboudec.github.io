@@ -1,15 +1,19 @@
 ---
 layout: post
-title: Work
+title: Works
 ---
 
-<h3>Publications</h3>
+<h3>Articles</h3>
 
    <ol style="margin-top:0;" reversed>
-     <li><a href="https://arxiv.org/abs/2112.12005" target="_blank">Arithmetic dynamics of random polynomials</a> (with <a href="http://people.math.harvard.edu/~mavraki/" target="_blank">M. Mavraki</a>)<br>
+      <li><a href="https://www.youtube.com/watch?v=Hehke-rkqvo" target="_blank">On the \(2\)-torsion in class groups of number fields</a> (with <a href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1419200" target="_blank">D. Bonolis</a>)<br>
+       Forthcoming.</li>
+      <li><a href="https://arxiv.org/search/math?searchtype=author&query=Le%20Boudec,+Pierre" target="_blank">Random Diophantine equations of large degree</a> (with <a href="https://tdbrowning.github.io/tdb" target="_blank">T. Browning</a> and <a href="https://williamsawin.com" target="_blank">W. Sawin</a>)<br>
+       Forthcoming.</li>
+     <li><a href="https://arxiv.org/abs/2112.12005" target="_blank">Arithmetic dynamics of random polynomials</a> (with <a href="http://people.math.harvard.edu/~mavraki" target="_blank">M. Mavraki</a>)<br>
        Submitted for publication.</li>
-     <li><a href="https://annals.math.princeton.edu/articles/20019" target="_blank">The Hasse principle for random Fano hypersurfaces</a> (with <a href="https://pub.ist.ac.at/%7Etbrownin/index.html" target="_blank">T. Browning</a> and <a href="https://williamsawin.com" target="_blank">W. Sawin</a>)<br>
-       Ann. of Math. (2), to appear.</li>
+     <li><a href="https://annals.math.princeton.edu/2023/197-3/p03" target="_blank">The Hasse principle for random Fano hypersurfaces</a> (with <a href="https://tdbrowning.github.io/tdb" target="_blank">T. Browning</a> and <a href="https://williamsawin.com" target="_blank">W. Sawin</a>)<br>
+       Ann. of Math. (2) 197 (2023), no. 3, 1115–1203.</li>
      <li><a href="https://doi.org/10.2140/ant.2021.15.657" target="_blank">Height of rational points on random Fano hypersurfaces</a><br>
        Algebra Number Theory 15 (2021), no. 3, 657–672.</li>
      <li><a href="https://doi.org/10.1090/tran/7912" target="_blank">A statistical view on the conjecture of Lang about the canonical height on elliptic curves</a><br>
